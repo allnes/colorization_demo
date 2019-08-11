@@ -1,7 +1,8 @@
 rm *.caffemodel \
-   *.prototxt \
-   *.jpg \
-   *.npy \
-   *.xml \
-   *.bin \
-   *.mapping
+   *.prototxt   \
+   *.jpg        \
+   *.npy        \
+   *.xml        \
+   *.bin        \
+   *.mapping    \
+   *.mp4

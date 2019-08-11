@@ -20,3 +20,7 @@ mo.py \
   --input_model colorization.caffemodel \
   --input_proto colorization.prototxt
 ```
+4) Run colorization demo
+```
+python3 demo.py
+```
